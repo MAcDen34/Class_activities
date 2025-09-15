@@ -1,0 +1,7 @@
+
+# we are automating the display of the working directory by hiding the command  
+# the command in the file.
+
+# Later, we will have to execute our file for the command to take effect
+
+pwd 
